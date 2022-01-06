@@ -50,9 +50,9 @@ In the future, we want to rerun the remaining part of this paper to check the re
 The following table1 shows the BLEU scores of the vanilla KNN-MT(V) and adaptive kNN-MT model(A). We can find that the Adaptive kNN-MT model introduced in our selected paper has a better result on almost all domains, which proved the first claim in this paper.
 
 ## Citation
-Bleu: a method for automatic evaluation of machine translation. Kishore Papineni, Salim Roukos, Todd Ward, and Wei- Jing Zhu. https://github.com/mjpost/sacrebleuNearest Neighbor Machine Translation
+Bleu: a method for automatic evaluation of machine translation. Kishore Papineni, Salim Roukos, Todd Ward, and Wei- Jing Zhu. https://github.com/mjpost/sacrebleuNearest 
 
-Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. https://arxiv.org/abs/2010.00710Search 
+Neighbor Machine Translation. Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. https://arxiv.org/abs/2010.00710Search 
 
 Engine Guided Neural Machine Translation Jiatao Gu, Yong Wang, Kyunghyun Cho, Victor O.K. Li https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17282
 
